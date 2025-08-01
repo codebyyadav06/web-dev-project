@@ -100,21 +100,4 @@
     background-color: black;
 }
 
-/* services */
-.servicer-container{
-    display: flex;
-    top: 0;
-    left: 0;
 
-}
-.box{
-    border: 2px solid red;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-}
-.box image{
-    height: 150px;
-    
-}
